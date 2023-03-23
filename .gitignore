@@ -1,2 +1,7 @@
 *.class
 *.log
+
+# sigtesting Java/Scala code
+/.bsp/sbt.json
+/project/target/*
+/target/*
